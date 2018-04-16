@@ -1,2 +1,2 @@
 # Whitepaper
-Find our latest version whitepaper here.
+Find our latest version whitepaper in this repository.
