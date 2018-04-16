@@ -1,2 +1,0 @@
-# Whitepaper
-Latest whitepaper
